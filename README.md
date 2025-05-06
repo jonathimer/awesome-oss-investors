@@ -21,7 +21,7 @@ VCs marked with a (*) are dedicated exclusively to commercial open-source and/or
 
 |VC|Stage|Ticket size|HQ|Exemplary investments|
 |:-------|:------|:----------|:----------:|:------------:|
-[Abstraction Capital](https://abstraction.vc/) | Pre-Seed/Seed | $0.1-4M | US | [Buf](https://buf.build/), [Parabeac](https://parabeac.com/), [Ivy](https://lets-unify.ai/), [Wasp](https://wasp-lang.dev/) |
+[Abstraction Capital](https://abstraction.vc/) | Pre-Seed/Seed | $0.1-4M | US | [Buf](https://buf.build/), [Parabeac](https://parabeac.com/), [Ivy](https://lets-unify.ai/), [Wasp](https://wasp.sh/) |
 [Angel Invest](https://www.angelinvest.ventures/) | Pre-Seed/Seed | $0.1M | Germany | [Rasa](https://rasa.com/), [Resoto](https://resoto.com/), [Dagshub](https://dagshub.com/), [Deta](https://www.deta.sh/), [MindsDB](https://mindsdb.com/) |
 [Boldstart](https://boldstart.vc/) | Pre-Seed/Seed | $0.5-5M | US | [Liveblocks](https://liveblocks.io/), [Cloudquery](https://www.cloudquery.io/), [Darklang](https://darklang.com/) |
 [Crane](https://crane.vc/) | Pre-Seed/Seed | $1-6M | UK | [Novu](https://novu.co/), [ZenML](https://zenml.io/home), [Cerbos](https://cerbos.dev), [Gitpod](https://gitpod.io) |
