@@ -21,16 +21,18 @@ VCs marked with a (*) are dedicated exclusively to commercial open-source and/or
 
 |VC|Stage|Ticket size|HQ|Exemplary investments|
 |:-------|:------|:----------|:----------:|:------------:|
-[Abstraction Capital](https://abstraction.vc/) | Pre-Seed/Seed | $0.1-4M | US | [Buf](https://buf.build/), [Parabeac](https://parabeac.com/), [Ivy](https://lets-unify.ai/), [Wasp](https://wasp-lang.dev/) |
+[Abstraction Capital](https://abstraction.vc/) | Pre-Seed/Seed | $0.1-4M | US | [Buf](https://buf.build/), [Parabeac](https://parabeac.com/), [Ivy](https://lets-unify.ai/), [Wasp](https://wasp.sh/) |
 [Angel Invest](https://www.angelinvest.ventures/) | Pre-Seed/Seed | $0.1M | Germany | [Rasa](https://rasa.com/), [Resoto](https://resoto.com/), [Dagshub](https://dagshub.com/), [Deta](https://www.deta.sh/), [MindsDB](https://mindsdb.com/) |
 [Boldstart](https://boldstart.vc/) | Pre-Seed/Seed | $0.5-5M | US | [Liveblocks](https://liveblocks.io/), [Cloudquery](https://www.cloudquery.io/), [Darklang](https://darklang.com/) |
 [Crane](https://crane.vc/) | Pre-Seed/Seed | $1-6M | UK | [Novu](https://novu.co/), [ZenML](https://zenml.io/home), [Cerbos](https://cerbos.dev), [Gitpod](https://gitpod.io) |
 [eCAPITAL](https://ecapital.vc/) | Seed, Series A | $1-10M | DE | [Tenzir](https://tenzir.com/), [Exein](https://www.exein.io/), [Open-Xchange](https://www.open-xchange.com/) |
 [Elaia](https://www.elaia.com) | Pre-Seed/Seed, Series A,B | $0.3-12M | France | [Giskard](https://www.giskard.ai), [Qbeast](https://qbeast.io), [Nuclia](https://nuclia.com), [CodeNotary](https://codenotary.com), [TraefikLabs](https://traefik.io) |
 [Essence VC](https://www.essencevc.fund/) | Pre-Seed/Seed | $0.5-5M | US | [ReadySet](https://readyset.io/), [Project Discovery](https://projectdiscovery.io/#/), [Encore](https://encore.dev/) |
+[Serena Capital](https://www.serena.vc/)| Pre-Seed/Seed | $0.5-4M | EU | [Opsmill](https://github.com/opsmill), [Pyannote](https://github.com/pyannote-audio), [Koin](https://github.com/InsertKoinIO/koin) |
 [Firstminute Capital](https://www.firstminute.capital/) | Pre-Seed/Seed | $0.25-5M | UK | [Element](https://element.io/), [n8n](https://n8n.io/), [Nuxt.js](https://nuxtjs.org/), [Quickwit](https://quickwit.io/) |
 [Fly Ventures](https://fly.vc/) | Pre-Seed/Seed | $1-3M | Germany | [GitGuardian](https://www.gitguardian.com/), [Evidently AI](https://evidentlyai.com/), [Objectiv](https://objectiv.io/) |
 [Grayscale Ventures](https://grayscale.vc/) | Pre-Seed/Seed | $0.3-1M | India | [Hasura](https://hasura.io/), [Testsigma](https://testsigma.com/), [Bytebeam](https://bytebeam.io/) |
+[Grand Ventures](https://grandvcp.com/) | Pre-Seed/Seed | $0.5-2M | US | [Astronomer](https://www.astronomer.io/), [Payload](https://payloadcms.com/), [Traceloop] (https://www.traceloop.com/) |
 [Haystack](https://Haystack.vc/) | Pre-Seed/Seed | $0.25-1.5M | US | [Hashicorp](https://www.hashicorp.com/), [RedPanda](https://redpanda.com/), [Astro](https://astro.build/) |
 [HorizonVC](https://horizon.vc/) | Pre-Seed/Seed | $0.3-1.5M | US | [Nango](https://nango.dev/), [Shuttle](https://shuttle.rs/), [Caesar Labs](https://github.com/caesarHQ/cx-copilot) |
 [Isai Venture (JP Anciaux)](https://isai.vc/) | Pre-Seed/Seed | $0.25-3.5M | FR-US | [Strapi](https://strapi.io/), [Nuxt](https://nuxt.com/), [Kestra](https://kestra.io), [Numworks](https://numworks.com) |
