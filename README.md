@@ -58,6 +58,7 @@ VCs marked with a (*) are dedicated exclusively to commercial open-source and/or
 [Costanoa](https://www.costanoavc.com/) |	Seed/Series A |	$2-5M |	US |	[Auterion](https://auterion.com/), [FOSSA](https://fossa.com/), [Jitsu](https://jitsu.com/) | 
 [Decibel](https://decibel.vc/) | Seed, Series A | | US | [Botpress](https://botpress.com/), [Cube](https://cube.dev/), [Pachyderm](https://www.pachyderm.com/) |
 [Felicis Ventures](https://www.felicis.com/) | Seed, Series A, B | | US | [Meilisearch](https://www.meilisearch.com/), [n8n.io](https://n8n.io/), [Supabase](https://supabase.com/) |
+[FirstMark](https://firstmark.com/)* | Seed, Series A | $2-20M | US | [ClickHouse](https://clickhouse.com/), [Cockroach Labs](https://www.cockroachlabs.com/), [Astronomer](https://www.astronomer.io/), [SurrealDB](https://surrealdb.com/), [Lago](https://www.getlago.com/), [TensorZero](https://tensorzero.com/), [Quickwit](https://quickwit.io/), [Timber/Vector](https://timber.io/) |
 [Innovation Endeavors](https://www.innovationendeavors.com/) | Seed, Series A | $1-12M | US | [Earthly](https://earthly.dev/), [Kong](https://konghq.com/),  [ScyllaDB](https://www.scylladb.com/), [Cube](https://cube.dev/) |
 [MMC Ventures](https://mmc.vc/)| Seed, Series A | | UK | [Snowplow](https://snowplow.io/), [Tyk.io](https://tyk.io/), [MindsDB](https://mindsdb.com/), [BoxyHQ](https://boxyhq.com/) |
 [Nauta Capital](https://nautacapital.com/) | Seed, Series A | $1-5M | UK, Spain, Germany | [Kubermatic](https://www.kubermatic.com/), [Nhost](https://nhost.io/), [Boxy](https://boxyhq.com/) |
