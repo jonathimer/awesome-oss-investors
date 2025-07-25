@@ -41,6 +41,7 @@ VCs marked with a (*) are dedicated exclusively to commercial open-source and/or
 [Lombardstreet Ventures](https://lombardstreet.vc/) | Pre-Seed/Seed | $0.3-1M | US | [Kong](https://www.konghq.com/), [Sysdig](https://sysdig.com/), [Hydra](https://hydras.io/) |
 [Lunar Ventures](https://lunar.vc/) | Pre-Seed/Seed | $0.3-1M | Germany | [deepset](https://www.deepset.ai/), [Zama](https://www.zama.ai), [WASP](https://wasp-lang.dev/), [NannyML](https://www.nannyml.com/) |
 [Mango Capital](https://www.mangocapitalinc.com/) | Pre-Seed/Seed | $0.5-2M | US | [Hashicorp](https://www.hashicorp.com/), [Couchbase](https://www.couchbase.com/), [InfluxData](https://www.influxdata.com/) |
+[OpenCapital.vc](https://opencapital.vc/)* | Pre-Seed | $0.3-$0.5 | FR | [Kestra](https://www.kestra.io/), [Traefik Labs.com](https://traefik.io/), [Twenty CRM](https://www.twenty.com/) |
 [OSS Capital](https://oss.capital/)* | Pre-Seed/Seed | $0.1-6M | US | [Rocket.chat](https://www.rocket.chat/), [Cal.com](https://cal.com/), [Forem](https://www.forem.com/), [Remix](https://remix.run/), [OpenBB](https://openbb.co/), [BoxyHQ](https://boxyhq.com/), [MindsDB](https://mindsdb.com/) |
 [Open Core Ventures](https://opencoreventures.com/)* | Pre-Seed/Seed | $0.1-2M | US | [Fleet](https://fleetdm.com/), [FlowForge](https://flowforge.com/), [Mermaid Chart](https://mermaid.live/) |
 [Peak](https://peak.capital/) | Pre-Seed/Seed | Europe | $250k-4M | [apideck](https://www.apideck.com/), [Open Social](https://www.getopensocial.com/), [Widgetbook](https://www.widgetbook.io/)|
