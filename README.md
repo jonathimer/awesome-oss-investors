@@ -38,6 +38,7 @@ VCs marked with a (*) are dedicated exclusively to commercial open-source and/or
 [Mango Capital](https://www.mangocapitalinc.com/) | Pre-Seed/Seed | $0.5-2M | US | [Hashicorp](https://www.hashicorp.com/), [Couchbase](https://www.couchbase.com/), [InfluxData](https://www.influxdata.com/) |
 [OSS Capital](https://oss.capital/)* | Pre-Seed/Seed | $0.1-6M | US | [Rocket.chat](https://www.rocket.chat/), [Cal.com](https://cal.com/), [Forem](https://www.forem.com/), [Remix](https://remix.run/), [OpenBB](https://openbb.co/), [BoxyHQ](https://boxyhq.com/), [MindsDB](https://mindsdb.com/) |
 [Open Core Ventures](https://opencoreventures.com/)* | Pre-Seed/Seed | $0.1-2M | US | [Fleet](https://fleetdm.com/), [FlowForge](https://flowforge.com/), [Mermaid Chart](https://mermaid.live/) |
+[Ratio](https://ratio.ventures/) | Pre-Seed/Seed | | US | [n8n](https://n8n.io/), [ToolJet](https://tooljet.com/), [Chatwoot](https://chatwoot.com/) |
 [Seedcamp](https://seedcamp.com/) | Pre-Seed/Seed | $0.2-0.5M | UK | [Meilisearch](https://www.meilisearch.com/), [Medusa](https://medusajs.com/),  [Cerbos](https://cerbos.dev/) |
 [Speedinvest](https://speedinvest.com/) | Pre-Seed/Seed | $0.7-3M | Europe | [mindsDB](https://mindsdb.com/), [crate.io](https://crate.io/), [Gitpod](https://gitpod.io), [Qovery](https://www.qovery.com/), [Wasmer](https://wasmer.io/) |
 [XAnge](https://xange.fr/) | Pre-Seed/Seed | $0.5-10M | France, Germany | [Odoo](https://www.odoo.com/), [Prestashop](https://www.prestashop.com/), [Misakey](https://docs.misakey.com/) |
@@ -87,7 +88,6 @@ VCs marked with a (*) are dedicated exclusively to commercial open-source and/or
 [Tiger Global](https://www.tigerglobal.com/) |	Multi Stage |	|	US |	[appwrite](https://appwrite.io/), [Kong](https://konghq.com/), [Redis](https://redis.com/) | 
 [Venrock](https://www.venrock.com/) | Multi Stage | | US | [Astronomer](https://www.astronomer.io/), [Meltano](https://meltano.com), [dGraph](https://dgraph.io/)|
 [Altimeter](https://www.altimeter.com/) | Late Stage | | US | [Confluent](https://www.confluent.io/), [GitLab](https://about.gitlab.com/), [dbt](https://www.getdbt.com/) |
-[Ratio](https://ratio.ventures/) | Early Stage | | US | [n8n](https://n8n.io/), [ToolJet](https://tooljet.com/), [Chatwoot](https://chatwoot.com/) |
 
 <!-- END VC LIST -->
 
