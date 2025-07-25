@@ -47,6 +47,7 @@ VCs marked with a (*) are dedicated exclusively to commercial open-source and/or
 [Peak](https://peak.capital/) | Pre-Seed/Seed | Europe | $250k-4M | [apideck](https://www.apideck.com/), [Open Social](https://www.getopensocial.com/), [Widgetbook](https://www.widgetbook.io/)|
 [Seedcamp](https://seedcamp.com/) | Pre-Seed/Seed | $0.2-0.5M | UK | [Meilisearch](https://www.meilisearch.com/), [Medusa](https://medusajs.com/),  [Cerbos](https://cerbos.dev/) |
 [Speedinvest](https://speedinvest.com/) | Pre-Seed/Seed | $0.7-3M | Europe | [mindsDB](https://mindsdb.com/), [crate.io](https://crate.io/), [Gitpod](https://gitpod.io), [Qovery](https://www.qovery.com/), [Wasmer](https://wasmer.io/) |
+[Ratio](https://ratio.ventures/) | Pre-Seed/Seed | | US | [n8n](https://n8n.io/), [ToolJet](https://tooljet.com/), [Chatwoot](https://chatwoot.com/) |
 [XAnge](https://xange.fr/) | Pre-Seed/Seed | $0.5-10M | France, Germany | [Odoo](https://www.odoo.com/), [Prestashop](https://www.prestashop.com/), [Misakey](https://docs.misakey.com/) |
 [Y Combinator](https://www.ycombinator.com/)* | Pre-Seed/Seed | $0.5M | US | [Apollo](https://www.apollographql.com/), [Posthog](https://posthog.com/), [MindsDB](https://mindsdb.com/) |
 [500 Startups](https://500.co/) |	Pre-Seed / Seed |	$0.025-0.5M |	Global |	[GitLab](https://gitlab.com/), [mycroft](https://mycroft.ai/), [Predictionio](https://www.prediction.io/) | 
