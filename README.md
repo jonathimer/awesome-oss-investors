@@ -3,7 +3,7 @@ Awesome list of VCs investing in commercial open-source startups.
 
 ## Criteria
 VCs are added to the list if: 
-1. They invested in at least 3 startups where the product is strongly based on an open-source repo
+1. They invested in at least 3 startups where the product is primarily based on an open-source project
 2. They are still investing actively
 
 ## Contributing
